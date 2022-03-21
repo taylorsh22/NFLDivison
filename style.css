@@ -1,0 +1,20 @@
+h1 { 
+	color: #0A369D;
+	font-size: 80px;
+	font-family: "Optima", sans-serif;
+	text-align: center;
+	margin-bottom: 5px;
+}
+
+h3 {
+	color:  #16104a;
+	font-size: 36px;
+	font-family: "Optima", sans-serif;
+	text-align: left;
+	margin-top: 5px;
+}
+
+p {
+	font-size: 20px;
+	font-family: "Optima", sans-serif;
+}
